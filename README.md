@@ -1,4 +1,10 @@
-# Marlin 3D Printer Firmware
+
+
+# Marlin 3D Printer Firmware (Configured for older HICTOP models)
+With help from [this post](http://forums.reprap.org/read.php?406,656276)
+
+Tested on my HIC-3DP11, I believe it should also work for the HIC-3DP12.
+
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
 ## Marlin 1.1
